@@ -1,0 +1,8 @@
+.env
+_pycache_/
+*.pyc
+.venv/
+student.db
+.chroma/
+.pytest_cache/
+.vscode/

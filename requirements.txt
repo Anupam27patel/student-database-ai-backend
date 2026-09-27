@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic-settings
+python-dotenv
+chromadb
+langgraph
+langchain-core
+langchain-google-genai
+google-genai
+psycopg[binary]
